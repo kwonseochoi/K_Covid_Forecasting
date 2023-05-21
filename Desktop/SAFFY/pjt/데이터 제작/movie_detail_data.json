@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 238,
+    "budget": 6000000,
+    "revenue": 245066411,
+    "runtime": 175
+  },
+  {
+    "id": 278,
+    "budget": 25000000,
+    "revenue": 28341469,
+    "runtime": 142
+  },
+  {
+    "id": 772071,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 115
+  },
+  {
+    "id": 240,
+    "budget": 13000000,
+    "revenue": 102600000,
+    "runtime": 202
+  },
+  {
+    "id": 19404,
+    "budget": 13200000,
+    "revenue": 100000000,
+    "runtime": 190
+  },
+  {
+    "id": 424,
+    "budget": 22000000,
+    "revenue": 321365567,
+    "runtime": 195
+  },
+  {
+    "id": 129,
+    "budget": 19000000,
+    "revenue": 274925095,
+    "runtime": 124
+  },
+  {
+    "id": 389,
+    "budget": 350000,
+    "revenue": 1000000,
+    "runtime": 97
+  },
+  {
+    "id": 372058,
+    "budget": 0,
+    "revenue": 357986087,
+    "runtime": 106
+  },
+  {
+    "id": 496243,
+    "budget": 11363000,
+    "revenue": 257591776,
+    "runtime": 131
+  },
+  {
+    "id": 155,
+    "budget": 185000000,
+    "revenue": 1004558444,
+    "runtime": 152
+  },
+  {
+    "id": 497,
+    "budget": 60000000,
+    "revenue": 286801374,
+    "runtime": 189
+  },
+  {
+    "id": 680,
+    "budget": 8000000,
+    "revenue": 214179088,
+    "runtime": 154
+  },
+  {
+    "id": 429,
+    "budget": 1200000,
+    "revenue": 25253887,
+    "runtime": 161
+  },
+  {
+    "id": 13,
+    "budget": 55000000,
+    "revenue": 677387716,
+    "runtime": 142
+  },
+  {
+    "id": 122,
+    "budget": 94000000,
+    "revenue": 1118888979,
+    "runtime": 199
+  },
+  {
+    "id": 372754,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 61
+  },
+  {
+    "id": 769,
+    "budget": 25000000,
+    "revenue": 46835000,
+    "runtime": 146
+  },
+  {
+    "id": 704264,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 85
+  },
+  {
+    "id": 995133,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 34
+  },
+  {
+    "id": 696374,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 122
+  },
+  {
+    "id": 346,
+    "budget": 2000000,
+    "revenue": 346300,
+    "runtime": 207
+  },
+  {
+    "id": 11216,
+    "budget": 5000000,
+    "revenue": 11990401,
+    "runtime": 124
+  },
+  {
+    "id": 637,
+    "budget": 20000000,
+    "revenue": 230098753,
+    "runtime": 116
+  },
+  {
+    "id": 12477,
+    "budget": 3700000,
+    "revenue": 516962,
+    "runtime": 89
+  },
+  {
+    "id": 311,
+    "budget": 30000000,
+    "revenue": 5472914,
+    "runtime": 229
+  },
+  {
+    "id": 539,
+    "budget": 806947,
+    "revenue": 0,
+    "runtime": 109
+  },
+  {
+    "id": 724089,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105
+  },
+  {
+    "id": 550,
+    "budget": 63000000,
+    "revenue": 100853753,
+    "runtime": 139
+  },
+  {
+    "id": 667257,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88
+  },
+  {
+    "id": 820067,
+    "budget": 0,
+    "revenue": 17288993,
+    "runtime": 136
+  },
+  {
+    "id": 598,
+    "budget": 3300000,
+    "revenue": 30641770,
+    "runtime": 130
+  },
+  {
+    "id": 510,
+    "budget": 3000000,
+    "revenue": 108981275,
+    "runtime": 133
+  },
+  {
+    "id": 761053,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105
+  },
+  {
+    "id": 620249,
+    "budget": 0,
+    "revenue": 48045728,
+    "runtime": 102
+  },
+  {
+    "id": 14537,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 135
+  },
+  {
+    "id": 324857,
+    "budget": 90000000,
+    "revenue": 375464627,
+    "runtime": 117
+  },
+  {
+    "id": 4935,
+    "budget": 24000000,
+    "revenue": 236049757,
+    "runtime": 119
+  },
+  {
+    "id": 157336,
+    "budget": 165000000,
+    "revenue": 701729206,
+    "runtime": 169
+  },
+  {
+    "id": 378064,
+    "budget": 0,
+    "revenue": 30156463,
+    "runtime": 129
+  },
+  {
+    "id": 120,
+    "budget": 93000000,
+    "revenue": 871368364,
+    "runtime": 227
+  },
+  {
+    "id": 40096,
+    "budget": 0,
+    "revenue": 4903192,
+    "runtime": 104
+  },
+  {
+    "id": 1891,
+    "budget": 18000000,
+    "revenue": 538400000,
+    "runtime": 124
+  },
+  {
+    "id": 92321,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 45
+  },
+  {
+    "id": 423,
+    "budget": 35000000,
+    "revenue": 120072577,
+    "runtime": 150
+  },
+  {
+    "id": 553512,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 83
+  },
+  {
+    "id": 121,
+    "budget": 79000000,
+    "revenue": 926287400,
+    "runtime": 177
+  },
+  {
+    "id": 244786,
+    "budget": 3300000,
+    "revenue": 13092000,
+    "runtime": 106
+  },
+  {
+    "id": 18491,
+    "budget": 0,
+    "revenue": 20000000,
+    "runtime": 87
+  },
+  {
+    "id": 807,
+    "budget": 33000000,
+    "revenue": 327311859,
+    "runtime": 127
+  },
+  {
+    "id": 27205,
+    "budget": 160000000,
+    "revenue": 825532764,
+    "runtime": 148
+  },
+  {
+    "id": 599,
+    "budget": 1752000,
+    "revenue": 5000000,
+    "runtime": 110
+  },
+  {
+    "id": 567,
+    "budget": 1000000,
+    "revenue": 37034514,
+    "runtime": 112
+  },
+  {
+    "id": 652837,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99
+  },
+  {
+    "id": 255709,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 123
+  },
+  {
+    "id": 73,
+    "budget": 20000000,
+    "revenue": 23875127,
+    "runtime": 119
+  },
+  {
+    "id": 3782,
+    "budget": 0,
+    "revenue": 55240,
+    "runtime": 143
+  },
+  {
+    "id": 568332,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 125
+  },
+  {
+    "id": 914,
+    "budget": 2000000,
+    "revenue": 11000000,
+    "runtime": 125
+  },
+  {
+    "id": 274,
+    "budget": 19000000,
+    "revenue": 272742922,
+    "runtime": 118
+  },
+  {
+    "id": 128,
+    "budget": 26500000,
+    "revenue": 159414369,
+    "runtime": 135
+  },
+  {
+    "id": 851644,
+    "budget": 119,
+    "revenue": 0,
+    "runtime": 119
+  },
+  {
+    "id": 533514,
+    "budget": 0,
+    "revenue": 20339624,
+    "runtime": 140
+  },
+  {
+    "id": 901,
+    "budget": 1500000,
+    "revenue": 4250000,
+    "runtime": 87
+  },
+  {
+    "id": 12493,
+    "budget": 250000,
+    "revenue": 0,
+    "runtime": 142
+  },
+  {
+    "id": 101,
+    "budget": 16000000,
+    "revenue": 45284974,
+    "runtime": 111
+  },
+  {
+    "id": 644479,
+    "budget": 0,
+    "revenue": 1315376,
+    "runtime": 94
+  },
+  {
+    "id": 207,
+    "budget": 16400000,
+    "revenue": 235860116,
+    "runtime": 128
+  },
+  {
+    "id": 105,
+    "budget": 19000000,
+    "revenue": 381109762,
+    "runtime": 120
+  },
+  {
+    "id": 568300,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 112
+  },
+  {
+    "id": 3082,
+    "budget": 1500000,
+    "revenue": 0,
+    "runtime": 87
+  },
+  {
+    "id": 527641,
+    "budget": 7000000,
+    "revenue": 92600000,
+    "runtime": 116
+  },
+  {
+    "id": 20334,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99
+  },
+  {
+    "id": 630566,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 121
+  },
+  {
+    "id": 25237,
+    "budget": 0,
+    "revenue": 168817,
+    "runtime": 142
+  },
+  {
+    "id": 335,
+    "budget": 5000000,
+    "revenue": 5380118,
+    "runtime": 166
+  },
+  {
+    "id": 447362,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 107
+  },
+  {
+    "id": 16672,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 147
+  },
+  {
+    "id": 441130,
+    "budget": 12000000,
+    "revenue": 1266570,
+    "runtime": 103
+  },
+  {
+    "id": 361743,
+    "budget": 170000000,
+    "revenue": 1488732821,
+    "runtime": 131
+  },
+  {
+    "id": 315162,
+    "budget": 90000000,
+    "revenue": 480000000,
+    "runtime": 103
+  },
+  {
+    "id": 283566,
+    "budget": 0,
+    "revenue": 92300000,
+    "runtime": 155
+  },
+  {
+    "id": 795607,
+    "budget": 0,
+    "revenue": 87212911,
+    "runtime": 131
+  },
+  {
+    "id": 10494,
+    "budget": 830000,
+    "revenue": 112536,
+    "runtime": 81
+  },
+  {
+    "id": 28,
+    "budget": 31500000,
+    "revenue": 150000000,
+    "runtime": 147
+  },
+  {
+    "id": 618344,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90
+  },
+  {
+    "id": 29259,
+    "budget": 0,
+    "revenue": 33187,
+    "runtime": 132
+  },
+  {
+    "id": 632632,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 60
+  },
+  {
+    "id": 637920,
+    "budget": 0,
+    "revenue": 19289062,
+    "runtime": 132
+  },
+  {
+    "id": 10376,
+    "budget": 9000000,
+    "revenue": 21057208,
+    "runtime": 170
+  },
+  {
+    "id": 975,
+    "budget": 935000,
+    "revenue": 0,
+    "runtime": 88
+  },
+  {
+    "id": 77338,
+    "budget": 13000000,
+    "revenue": 426588510,
+    "runtime": 112
+  },
+  {
+    "id": 537061,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 82
+  },
+  {
+    "id": 15804,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 237
+  },
+  {
+    "id": 265177,
+    "budget": 4900000,
+    "revenue": 3494070,
+    "runtime": 138
+  },
+  {
+    "id": 670,
+    "budget": 3000000,
+    "revenue": 15194593,
+    "runtime": 120
+  },
+  {
+    "id": 299534,
+    "budget": 356000000,
+    "revenue": 2794731755,
+    "runtime": 181
+  },
+  {
+    "id": 299536,
+    "budget": 300000000,
+    "revenue": 2046239637,
+    "runtime": 149
+  },
+  {
+    "id": 575813,
+    "budget": 0,
+    "revenue": 225879065,
+    "runtime": 135
+  },
+  {
+    "id": 508965,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96
+  },
+  {
+    "id": 8587,
+    "budget": 45000000,
+    "revenue": 763455561,
+    "runtime": 89
+  },
+  {
+    "id": 1585,
+    "budget": 3180000,
+    "revenue": 9644124,
+    "runtime": 130
+  },
+  {
+    "id": 635302,
+    "budget": 15800000,
+    "revenue": 503063688,
+    "runtime": 117
+  },
+  {
+    "id": 797,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 83
+  },
+  {
+    "id": 290098,
+    "budget": 8575000,
+    "revenue": 38600000,
+    "runtime": 144
+  },
+  {
+    "id": 42269,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 124
+  },
+  {
+    "id": 740937,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 140
+  },
+  {
+    "id": 504253,
+    "budget": 0,
+    "revenue": 33748006,
+    "runtime": 108
+  },
+  {
+    "id": 490132,
+    "budget": 23000000,
+    "revenue": 319700000,
+    "runtime": 130
+  },
+  {
+    "id": 556574,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 160
+  },
+  {
+    "id": 110420,
+    "budget": 0,
+    "revenue": 55060661,
+    "runtime": 117
+  },
+  {
+    "id": 31414,
+    "budget": 1500000,
+    "revenue": 0,
+    "runtime": 432
+  },
+  {
+    "id": 5156,
+    "budget": 133000,
+    "revenue": 436655,
+    "runtime": 89
+  },
+  {
+    "id": 24188,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105
+  },
+  {
+    "id": 572154,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 89
+  },
+  {
+    "id": 354912,
+    "budget": 175000000,
+    "revenue": 800526015,
+    "runtime": 105
+  },
+  {
+    "id": 37257,
+    "budget": 3000000,
+    "revenue": 9000000,
+    "runtime": 116
+  },
+  {
+    "id": 555604,
+    "budget": 35000000,
+    "revenue": 0,
+    "runtime": 117
+  },
+  {
+    "id": 522924,
+    "budget": 18000000,
+    "revenue": 33766787,
+    "runtime": 109
+  },
+  {
+    "id": 284,
+    "budget": 3000000,
+    "revenue": 25000000,
+    "runtime": 125
+  },
+  {
+    "id": 18148,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 137
+  },
+  {
+    "id": 694,
+    "budget": 19000000,
+    "revenue": 44781695,
+    "runtime": 144
+  },
+  {
+    "id": 667276,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90
+  },
+  {
+    "id": 185,
+    "budget": 2200000,
+    "revenue": 26589000,
+    "runtime": 137
+  },
+  {
+    "id": 490,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96
+  },
+  {
+    "id": 610892,
+    "budget": 0,
+    "revenue": 10841702,
+    "runtime": 91
+  },
+  {
+    "id": 16869,
+    "budget": 70000000,
+    "revenue": 321457747,
+    "runtime": 152
+  },
+  {
+    "id": 791373,
+    "budget": 70000000,
+    "revenue": 0,
+    "runtime": 242
+  },
+  {
+    "id": 592350,
+    "budget": 0,
+    "revenue": 29900850,
+    "runtime": 104
+  },
+  {
+    "id": 857,
+    "budget": 70000000,
+    "revenue": 481840909,
+    "runtime": 169
+  },
+  {
+    "id": 11,
+    "budget": 11000000,
+    "revenue": 775398007,
+    "runtime": 121
+  },
+  {
+    "id": 10098,
+    "budget": 250000,
+    "revenue": 2500000,
+    "runtime": 68
+  },
+  {
+    "id": 755812,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 62
+  },
+  {
+    "id": 98,
+    "budget": 103000000,
+    "revenue": 465361176,
+    "runtime": 154
+  },
+  {
+    "id": 1398,
+    "budget": 120000,
+    "revenue": 0,
+    "runtime": 162
+  },
+  {
+    "id": 1124,
+    "budget": 40000000,
+    "revenue": 109676311,
+    "runtime": 130
+  },
+  {
+    "id": 603,
+    "budget": 63000000,
+    "revenue": 463517383,
+    "runtime": 136
+  },
+  {
+    "id": 422,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 139
+  },
+  {
+    "id": 313106,
+    "budget": 0,
+    "revenue": 10000000,
+    "runtime": 77
+  },
+  {
+    "id": 50014,
+    "budget": 25000000,
+    "revenue": 216639112,
+    "runtime": 146
+  },
+  {
+    "id": 810693,
+    "budget": 0,
+    "revenue": 195870885,
+    "runtime": 105
+  },
+  {
+    "id": 629,
+    "budget": 6000000,
+    "revenue": 23341568,
+    "runtime": 106
+  },
+  {
+    "id": 518068,
+    "budget": 18300000,
+    "revenue": 112790210,
+    "runtime": 141
+  },
+  {
+    "id": 11324,
+    "budget": 80000000,
+    "revenue": 294800000,
+    "runtime": 138
+  },
+  {
+    "id": 762975,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 122
+  },
+  {
+    "id": 476292,
+    "budget": 0,
+    "revenue": 4300000,
+    "runtime": 115
+  },
+  {
+    "id": 324786,
+    "budget": 40000000,
+    "revenue": 175302354,
+    "runtime": 139
+  },
+  {
+    "id": 426,
+    "budget": 2479000,
+    "revenue": 7797728,
+    "runtime": 128
+  },
+  {
+    "id": 77,
+    "budget": 9000000,
+    "revenue": 39723096,
+    "runtime": 113
+  },
+  {
+    "id": 26451,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 111
+  },
+  {
+    "id": 664767,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 80
+  },
+  {
+    "id": 297610,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 7
+  },
+  {
+    "id": 531428,
+    "budget": 5740000,
+    "revenue": 9923127,
+    "runtime": 120
+  },
+  {
+    "id": 133919,
+    "budget": 150000,
+    "revenue": 0,
+    "runtime": 169
+  },
+  {
+    "id": 2457,
+    "budget": 0,
+    "revenue": 1457,
+    "runtime": 191
+  },
+  {
+    "id": 517814,
+    "budget": 4000000,
+    "revenue": 64978931,
+    "runtime": 126
+  },
+  {
+    "id": 470044,
+    "budget": 23000000,
+    "revenue": 34934009,
+    "runtime": 133
+  },
+  {
+    "id": 654299,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 112
+  },
+  {
+    "id": 398818,
+    "budget": 4000000,
+    "revenue": 43143046,
+    "runtime": 132
+  },
+  {
+    "id": 20532,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 124
+  },
+  {
+    "id": 289,
+    "budget": 878000,
+    "revenue": 10462500,
+    "runtime": 102
+  },
+  {
+    "id": 475557,
+    "budget": 55000000,
+    "revenue": 1074458282,
+    "runtime": 122
+  },
+  {
+    "id": 399106,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 6
+  },
+  {
+    "id": 823754,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87
+  },
+  {
+    "id": 872,
+    "budget": 2540800,
+    "revenue": 7200000,
+    "runtime": 102
+  },
+  {
+    "id": 111,
+    "budget": 25000000,
+    "revenue": 66023329,
+    "runtime": 169
+  },
+  {
+    "id": 447365,
+    "budget": 250000000,
+    "revenue": 528801000,
+    "runtime": 150
+  },
+  {
+    "id": 1422,
+    "budget": 90000000,
+    "revenue": 291465000,
+    "runtime": 151
+  },
+  {
+    "id": 103,
+    "budget": 1300000,
+    "revenue": 28570902,
+    "runtime": 114
+  },
+  {
+    "id": 620683,
+    "budget": 2000000,
+    "revenue": 39273021,
+    "runtime": 111
+  },
+  {
+    "id": 606856,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 113
+  },
+  {
+    "id": 68718,
+    "budget": 100000000,
+    "revenue": 425368238,
+    "runtime": 165
+  },
+  {
+    "id": 406997,
+    "budget": 20000000,
+    "revenue": 305937718,
+    "runtime": 113
+  },
+  {
+    "id": 92060,
+    "budget": 1100000,
+    "revenue": 0,
+    "runtime": 13
+  },
+  {
+    "id": 508442,
+    "budget": 150000000,
+    "revenue": 136384442,
+    "runtime": 101
+  },
+  {
+    "id": 532067,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90
+  },
+  {
+    "id": 19,
+    "budget": 1300000,
+    "revenue": 650422,
+    "runtime": 149
+  },
+  {
+    "id": 705,
+    "budget": 1400000,
+    "revenue": 8400000,
+    "runtime": 138
+  },
+  {
+    "id": 600354,
+    "budget": 6000000,
+    "revenue": 21029340,
+    "runtime": 96
+  },
+  {
+    "id": 666,
+    "budget": 2900000,
+    "revenue": 5596708,
+    "runtime": 110
+  },
+  {
+    "id": 20914,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 140
+  },
+  {
+    "id": 489,
+    "budget": 10000000,
+    "revenue": 225933435,
+    "runtime": 126
+  },
+  {
+    "id": 614,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 91
+  },
+  {
+    "id": 439,
+    "budget": 0,
+    "revenue": 19647000,
+    "runtime": 176
+  },
+  {
+    "id": 20941,
+    "budget": 0,
+    "revenue": 837000,
+    "runtime": 120
+  },
+  {
+    "id": 996,
+    "budget": 927262,
+    "revenue": 2500000,
+    "runtime": 107
+  },
+  {
+    "id": 550776,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98
+  },
+  {
+    "id": 11878,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 110
+  },
+  {
+    "id": 348,
+    "budget": 11000000,
+    "revenue": 104931801,
+    "runtime": 117
+  },
+  {
+    "id": 55823,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 130
+  },
+  {
+    "id": 500,
+    "budget": 1200000,
+    "revenue": 2859750,
+    "runtime": 99
+  },
+  {
+    "id": 600,
+    "budget": 30000000,
+    "revenue": 46357676,
+    "runtime": 117
+  },
+  {
+    "id": 935,
+    "budget": 1800000,
+    "revenue": 9523464,
+    "runtime": 95
+  },
+  {
+    "id": 831827,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 7
+  },
+  {
+    "id": 100,
+    "budget": 1350000,
+    "revenue": 28356188,
+    "runtime": 105
+  },
+  {
+    "id": 548,
+    "budget": 250000,
+    "revenue": 96568,
+    "runtime": 87
+  },
+  {
+    "id": 640344,
+    "budget": 75000,
+    "revenue": 9500000,
+    "runtime": 64
+  },
+  {
+    "id": 37165,
+    "budget": 60000000,
+    "revenue": 264118201,
+    "runtime": 103
+  },
+  {
+    "id": 472454,
+    "budget": 4172781,
+    "revenue": 0,
+    "runtime": 125
+  },
+  {
+    "id": 411088,
+    "budget": 4000000,
+    "revenue": 30000000,
+    "runtime": 107
+  },
+  {
+    "id": 895,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 205
+  },
+  {
+    "id": 21634,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90
+  },
+  {
+    "id": 24382,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 106
+  },
+  {
+    "id": 992,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 45
+  },
+  {
+    "id": 239,
+    "budget": 2883848,
+    "revenue": 25000000,
+    "runtime": 122
+  },
+  {
+    "id": 843,
+    "budget": 150000,
+    "revenue": 12854953,
+    "runtime": 97
+  },
+  {
+    "id": 400608,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 60
+  },
+  {
+    "id": 397567,
+    "budget": 18300000,
+    "revenue": 125983972,
+    "runtime": 139
+  },
+  {
+    "id": 3780,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 185
+  },
+  {
+    "id": 526702,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 110
+  },
+  {
+    "id": 38288,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 120
+  },
+  {
+    "id": 12445,
+    "budget": 125000000,
+    "revenue": 1341511219,
+    "runtime": 130
+  },
+  {
+    "id": 347688,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 79
+  },
+  {
+    "id": 81481,
+    "budget": 2200000,
+    "revenue": 31500000,
+    "runtime": 124
+  },
+  {
+    "id": 9702,
+    "budget": 35000000,
+    "revenue": 0,
+    "runtime": 190
+  },
+  {
+    "id": 149871,
+    "budget": 49300000,
+    "revenue": 24366656,
+    "runtime": 137
+  },
+  {
+    "id": 17663,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 199
+  },
+  {
+    "id": 655,
+    "budget": 1746964,
+    "revenue": 2181987,
+    "runtime": 145
+  },
+  {
+    "id": 832,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 109
+  },
+  {
+    "id": 38,
+    "budget": 20000000,
+    "revenue": 72258126,
+    "runtime": 108
+  },
+  {
+    "id": 46738,
+    "budget": 6800000,
+    "revenue": 6788659,
+    "runtime": 130
+  },
+  {
+    "id": 280,
+    "budget": 102000000,
+    "revenue": 520000000,
+    "runtime": 156
+  },
+  {
+    "id": 103663,
+    "budget": 3800000,
+    "revenue": 18309793,
+    "runtime": 115
+  },
+  {
+    "id": 7345,
+    "budget": 25000000,
+    "revenue": 77208711,
+    "runtime": 158
+  },
+  {
+    "id": 359940,
+    "budget": 15000000,
+    "revenue": 160192031,
+    "runtime": 115
+  },
+  {
+    "id": 663558,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 117
+  },
+  {
+    "id": 334543,
+    "budget": 12000000,
+    "revenue": 140312928,
+    "runtime": 118
+  },
+  {
+    "id": 62,
+    "budget": 12000000,
+    "revenue": 71923560,
+    "runtime": 149
+  },
+  {
+    "id": 571265,
+    "budget": 0,
+    "revenue": 24200000,
+    "runtime": 94
+  },
+  {
+    "id": 4348,
+    "budget": 28000000,
+    "revenue": 121616555,
+    "runtime": 127
+  },
+  {
+    "id": 529531,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 69
+  },
+  {
+    "id": 146233,
+    "budget": 46000000,
+    "revenue": 122126687,
+    "runtime": 153
+  },
+  {
+    "id": 337404,
+    "budget": 200000000,
+    "revenue": 233503234,
+    "runtime": 134
+  },
+  {
+    "id": 387,
+    "budget": 14000000,
+    "revenue": 85000000,
+    "runtime": 150
+  },
+  {
+    "id": 10681,
+    "budget": 180000000,
+    "revenue": 521311860,
+    "runtime": 98
+  },
+  {
+    "id": 638507,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 22
+  },
+  {
+    "id": 406,
+    "budget": 2600000,
+    "revenue": 15300000,
+    "runtime": 98
+  },
+  {
+    "id": 147,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99
+  },
+  {
+    "id": 7347,
+    "budget": 4000000,
+    "revenue": 14759148,
+    "runtime": 115
+  },
+  {
+    "id": 8392,
+    "budget": 3700000,
+    "revenue": 45000000,
+    "runtime": 87
+  },
+  {
+    "id": 437068,
+    "budget": 12820005,
+    "revenue": 81927980,
+    "runtime": 137
+  },
+  {
+    "id": 610461,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93
+  },
+  {
+    "id": 678580,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86
+  },
+  {
+    "id": 11423,
+    "budget": 2800000,
+    "revenue": 26000000,
+    "runtime": 127
+  },
+  {
+    "id": 11659,
+    "budget": 0,
+    "revenue": 2693053,
+    "runtime": 366
+  },
+  {
+    "id": 11645,
+    "budget": 11500005,
+    "revenue": 11859533,
+    "runtime": 160
+  },
+  {
+    "id": 42229,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 106
+  },
+  {
+    "id": 8422,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 178
+  },
+  {
+    "id": 1955,
+    "budget": 5000000,
+    "revenue": 26010864,
+    "runtime": 124
+  },
+  {
+    "id": 780,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 110
+  },
+  {
+    "id": 381284,
+    "budget": 25000000,
+    "revenue": 235956898,
+    "runtime": 127
+  },
+  {
+    "id": 893941,
+    "budget": 0,
+    "revenue": 354068,
+    "runtime": 90
+  },
+  {
+    "id": 55960,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 101
+  },
+  {
+    "id": 26022,
+    "budget": 12000000,
+    "revenue": 42345360,
+    "runtime": 165
+  },
+  {
+    "id": 515001,
+    "budget": 14000000,
+    "revenue": 82468705,
+    "runtime": 108
+  },
+  {
+    "id": 120467,
+    "budget": 30000000,
+    "revenue": 174600318,
+    "runtime": 100
+  },
+  {
+    "id": 5801,
+    "budget": 0,
+    "revenue": 536364,
+    "runtime": 125
+  },
+  {
+    "id": 538362,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100
+  },
+  {
+    "id": 449176,
+    "budget": 17000000,
+    "revenue": 66316289,
+    "runtime": 110
+  },
+  {
+    "id": 118662,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 53
+  },
+  {
+    "id": 615457,
+    "budget": 17000000,
+    "revenue": 61779301,
+    "runtime": 92
+  },
+  {
+    "id": 400928,
+    "budget": 7000000,
+    "revenue": 40343446,
+    "runtime": 101
+  },
+  {
+    "id": 785534,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96
+  },
+  {
+    "id": 310569,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 112
+  },
+  {
+    "id": 800,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 85
+  },
+  {
+    "id": 785084,
+    "budget": 3000000,
+    "revenue": 55101305,
+    "runtime": 116
+  },
+  {
+    "id": 821,
+    "budget": 3000000,
+    "revenue": 10000000,
+    "runtime": 179
+  },
+  {
+    "id": 282848,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 60
+  },
+  {
+    "id": 115929,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105
+  },
+  {
+    "id": 522518,
+    "budget": 16000000,
+    "revenue": 78871079,
+    "runtime": 109
+  },
+  {
+    "id": 574074,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 9
+  },
+  {
+    "id": 339877,
+    "budget": 5500000,
+    "revenue": 42187665,
+    "runtime": 95
+  },
+  {
+    "id": 20530,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 110
+  },
+  {
+    "id": 582,
+    "budget": 2000000,
+    "revenue": 70000000,
+    "runtime": 137
+  },
+  {
+    "id": 279,
+    "budget": 18000000,
+    "revenue": 51973029,
+    "runtime": 161
+  },
+  {
+    "id": 1091,
+    "budget": 15000000,
+    "revenue": 19629760,
+    "runtime": 109
+  },
+  {
+    "id": 1396,
+    "budget": 825370,
+    "revenue": 119266,
+    "runtime": 107
+  },
+  {
+    "id": 106646,
+    "budget": 100000000,
+    "revenue": 392000000,
+    "runtime": 180
+  },
+  {
+    "id": 264644,
+    "budget": 13000000,
+    "revenue": 35401758,
+    "runtime": 118
+  },
+  {
+    "id": 9764,
+    "budget": 4000000,
+    "revenue": 0,
+    "runtime": 141
+  },
+  {
+    "id": 455661,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 4
+  },
+  {
+    "id": 19426,
+    "budget": 0,
+    "revenue": 752045,
+    "runtime": 110
+  },
+  {
+    "id": 19542,
+    "budget": 500000,
+    "revenue": 0,
+    "runtime": 133
+  },
+  {
+    "id": 962,
+    "budget": 923000,
+    "revenue": 4000000,
+    "runtime": 95
+  },
+  {
+    "id": 641,
+    "budget": 4500000,
+    "revenue": 7390108,
+    "runtime": 102
+  },
+  {
+    "id": 429210,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 113
+  },
+  {
+    "id": 14,
+    "budget": 15000000,
+    "revenue": 356296601,
+    "runtime": 122
+  },
+  {
+    "id": 37793,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 39
+  },
+  {
+    "id": 28978,
+    "budget": 9000000,
+    "revenue": 0,
+    "runtime": 72
+  },
+  {
+    "id": 938,
+    "budget": 600000,
+    "revenue": 15000000,
+    "runtime": 132
+  },
+  {
+    "id": 714888,
+    "budget": 0,
+    "revenue": 871621,
+    "runtime": 141
+  },
+  {
+    "id": 204,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 153
+  },
+  {
+    "id": 521,
+    "budget": 1400000,
+    "revenue": 3000000,
+    "runtime": 105
+  },
+  {
+    "id": 673,
+    "budget": 130000000,
+    "revenue": 789804554,
+    "runtime": 136
+  },
+  {
+    "id": 12761,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93
+  },
+  {
+    "id": 9277,
+    "budget": 5500000,
+    "revenue": 159616327,
+    "runtime": 129
+  },
+  {
+    "id": 15,
+    "budget": 839727,
+    "revenue": 23218000,
+    "runtime": 119
+  },
+  {
+    "id": 568160,
+    "budget": 0,
+    "revenue": 186965409,
+    "runtime": 112
+  },
+  {
+    "id": 307,
+    "budget": 20000,
+    "revenue": 1000000,
+    "runtime": 103
+  },
+  {
+    "id": 524,
+    "budget": 50000000,
+    "revenue": 116112375,
+    "runtime": 179
+  },
+  {
+    "id": 458220,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 110
+  },
+  {
+    "id": 11104,
+    "budget": 160000,
+    "revenue": 0,
+    "runtime": 103
+  },
+  {
+    "id": 378108,
+    "budget": 0,
+    "revenue": 19496308,
+    "runtime": 130
+  },
+  {
+    "id": 110416,
+    "budget": 0,
+    "revenue": 857522,
+    "runtime": 93
+  },
+  {
+    "id": 285700,
+    "budget": 1300005,
+    "revenue": 0,
+    "runtime": 116
+  },
+  {
+    "id": 51482,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 130
+  },
+  {
+    "id": 554596,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 102
+  },
+  {
+    "id": 3175,
+    "budget": 11000000,
+    "revenue": 198992,
+    "runtime": 185
+  },
+  {
+    "id": 359724,
+    "budget": 97600000,
+    "revenue": 225508210,
+    "runtime": 153
+  },
+  {
+    "id": 961,
+    "budget": 750000,
+    "revenue": 1000000,
+    "runtime": 79
+  },
+  {
+    "id": 595,
+    "budget": 2000000,
+    "revenue": 13129846,
+    "runtime": 129
+  },
+  {
+    "id": 652722,
+    "budget": 0,
+    "revenue": 425332,
+    "runtime": 101
+  },
+  {
+    "id": 315465,
+    "budget": 0,
+    "revenue": 49714378,
+    "runtime": 119
+  },
+  {
+    "id": 205596,
+    "budget": 14000000,
+    "revenue": 233555708,
+    "runtime": 114
+  },
+  {
+    "id": 140420,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 7
+  },
+  {
+    "id": 11778,
+    "budget": 15000000,
+    "revenue": 50000000,
+    "runtime": 183
+  },
+  {
+    "id": 28178,
+    "budget": 16000000,
+    "revenue": 46749646,
+    "runtime": 93
+  },
+  {
+    "id": 634649,
+    "budget": 200000000,
+    "revenue": 1921847111,
+    "runtime": 148
+  },
+  {
+    "id": 424694,
+    "budget": 52000000,
+    "revenue": 903992901,
+    "runtime": 134
+  },
+  {
+    "id": 488623,
+    "budget": 0,
+    "revenue": 9900000,
+    "runtime": 109
+  },
+  {
+    "id": 23282,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 24
+  },
+  {
+    "id": 31439,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 133
+  },
+  {
+    "id": 13223,
+    "budget": 33000000,
+    "revenue": 269958228,
+    "runtime": 116
+  },
+  {
+    "id": 776503,
+    "budget": 10000000,
+    "revenue": 1600000,
+    "runtime": 111
+  },
+  {
+    "id": 58007,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90
+  },
+  {
+    "id": 482321,
+    "budget": 0,
+    "revenue": 60692022,
+    "runtime": 107
+  },
+  {
+    "id": 25376,
+    "budget": 2000000,
+    "revenue": 33965843,
+    "runtime": 130
+  },
+  {
+    "id": 15244,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 101
+  },
+  {
+    "id": 3090,
+    "budget": 3800000,
+    "revenue": 4307000,
+    "runtime": 126
+  },
+  {
+    "id": 7508,
+    "budget": 2600000,
+    "revenue": 28430000,
+    "runtime": 165
+  },
+  {
+    "id": 426618,
+    "budget": 0,
+    "revenue": 128269,
+    "runtime": 122
+  },
+  {
+    "id": 560066,
+    "budget": 9260980,
+    "revenue": 0,
+    "runtime": 82
+  },
+  {
+    "id": 28422,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 237
+  },
+  {
+    "id": 18438,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 116
+  },
+  {
+    "id": 45752,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 72
+  },
+  {
+    "id": 213,
+    "budget": 4000000,
+    "revenue": 13275000,
+    "runtime": 136
+  },
+  {
+    "id": 530915,
+    "budget": 100000000,
+    "revenue": 394638258,
+    "runtime": 119
+  },
+  {
+    "id": 12104,
+    "budget": 12000000,
+    "revenue": 22244207,
+    "runtime": 95
+  },
+  {
+    "id": 237791,
+    "budget": 2700000,
+    "revenue": 0,
+    "runtime": 96
+  },
+  {
+    "id": 962232,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 126
+  },
+  {
+    "id": 20453,
+    "budget": 9000000,
+    "revenue": 70000000,
+    "runtime": 170
+  },
+  {
+    "id": 43949,
+    "budget": 14000000,
+    "revenue": 1755212,
+    "runtime": 93
+  },
+  {
+    "id": 11658,
+    "budget": 1500000,
+    "revenue": 0,
+    "runtime": 148
+  },
+  {
+    "id": 550205,
+    "budget": 0,
+    "revenue": 25860000,
+    "runtime": 99
+  },
+  {
+    "id": 2517,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 141
+  },
+  {
+    "id": 14696,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96
+  },
+  {
+    "id": 10238,
+    "budget": 400000,
+    "revenue": 0,
+    "runtime": 95
+  },
+  {
+    "id": 770,
+    "budget": 4000000,
+    "revenue": 402352579,
+    "runtime": 232
+  },
+  {
+    "id": 715931,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 132
+  },
+  {
+    "id": 29264,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94
+  },
+  {
+    "id": 947,
+    "budget": 15000000,
+    "revenue": 69995385,
+    "runtime": 216
+  },
+  {
+    "id": 1059,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 139
+  },
+  {
+    "id": 1578,
+    "budget": 18000000,
+    "revenue": 23000000,
+    "runtime": 129
+  },
+  {
+    "id": 627,
+    "budget": 4000000,
+    "revenue": 16491080,
+    "runtime": 94
+  },
+  {
+    "id": 242828,
+    "budget": 0,
+    "revenue": 34949567,
+    "runtime": 103
+  },
+  {
+    "id": 20803,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93
+  },
+  {
+    "id": 11712,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96
+  },
+  {
+    "id": 1092,
+    "budget": 0,
+    "revenue": 1226098,
+    "runtime": 104
+  },
+  {
+    "id": 897,
+    "budget": 0,
+    "revenue": 170215,
+    "runtime": 110
+  },
+  {
+    "id": 76,
+    "budget": 2500000,
+    "revenue": 5987386,
+    "runtime": 101
+  },
+  {
+    "id": 24,
+    "budget": 30000000,
+    "revenue": 180906076,
+    "runtime": 111
+  },
+  {
+    "id": 38360,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97
+  },
+  {
+    "id": 862,
+    "budget": 30000000,
+    "revenue": 373554033,
+    "runtime": 81
+  },
+  {
+    "id": 489412,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 62
+  },
+  {
+    "id": 94047,
+    "budget": 25500000,
+    "revenue": 16653488,
+    "runtime": 137
+  },
+  {
+    "id": 38286,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98
+  },
+  {
+    "id": 654,
+    "budget": 910000,
+    "revenue": 9600000,
+    "runtime": 108
+  },
+  {
+    "id": 522402,
+    "budget": 2500000,
+    "revenue": 0,
+    "runtime": 115
+  },
+  {
+    "id": 414419,
+    "budget": 55000000,
+    "revenue": 0,
+    "runtime": 247
+  },
+  {
+    "id": 15383,
+    "budget": 0,
+    "revenue": 741766,
+    "runtime": 140
+  },
+  {
+    "id": 640,
+    "budget": 52000000,
+    "revenue": 352114312,
+    "runtime": 141
+  },
+  {
+    "id": 501929,
+    "budget": 75000000,
+    "revenue": 0,
+    "runtime": 110
+  },
+  {
+    "id": 1580,
+    "budget": 1500000,
+    "revenue": 2200000,
+    "runtime": 81
+  },
+  {
+    "id": 70,
+    "budget": 30000000,
+    "revenue": 216763646,
+    "runtime": 132
+  },
+  {
+    "id": 761898,
+    "budget": 0,
+    "revenue": 14037060,
+    "runtime": 97
+  },
+  {
+    "id": 10515,
+    "budget": 3000000,
+    "revenue": 5228752,
+    "runtime": 124
+  },
+  {
+    "id": 234,
+    "budget": 18000,
+    "revenue": 8811,
+    "runtime": 78
+  },
+  {
+    "id": 21334,
+    "budget": 180000,
+    "revenue": 925402,
+    "runtime": 89
+  },
+  {
+    "id": 458302,
+    "budget": 0,
+    "revenue": 7434840,
+    "runtime": 109
+  },
+  {
+    "id": 41050,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 122
+  },
+  {
+    "id": 775,
+    "budget": 5985,
+    "revenue": 0,
+    "runtime": 14
+  },
+  {
+    "id": 110,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100
+  },
+  {
+    "id": 3777,
+    "budget": 0,
+    "revenue": 13422,
+    "runtime": 110
+  },
+  {
+    "id": 315620,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 62
+  },
+  {
+    "id": 28971,
+    "budget": 900000,
+    "revenue": 1000000,
+    "runtime": 137
+  },
+  {
+    "id": 438695,
+    "budget": 85000000,
+    "revenue": 406000000,
+    "runtime": 110
+  },
+  {
+    "id": 360814,
+    "budget": 10400000,
+    "revenue": 311000000,
+    "runtime": 161
+  },
+  {
+    "id": 149,
+    "budget": 10000000,
+    "revenue": 553171,
+    "runtime": 124
+  },
+  {
+    "id": 405,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 115
+  },
+  {
+    "id": 632322,
+    "budget": 25000000,
+    "revenue": 2000000,
+    "runtime": 91
+  },
+  {
+    "id": 10404,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 125
+  },
+  {
+    "id": 160885,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 120
+  },
+  {
+    "id": 10728,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 116
+  },
+  {
+    "id": 698508,
+    "budget": 0,
+    "revenue": 9100000,
+    "runtime": 134
+  },
+  {
+    "id": 667520,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104
+  },
+  {
+    "id": 523781,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 111
+  },
+  {
+    "id": 76203,
+    "budget": 20000000,
+    "revenue": 187000000,
+    "runtime": 134
+  },
+  {
+    "id": 10242,
+    "budget": 980000,
+    "revenue": 0,
+    "runtime": 135
+  },
+  {
+    "id": 491480,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 113
+  },
+  {
+    "id": 14160,
+    "budget": 175000000,
+    "revenue": 735099082,
+    "runtime": 96
+  },
+  {
+    "id": 698948,
+    "budget": 55000000,
+    "revenue": 0,
+    "runtime": 147
+  },
+  {
+    "id": 11010,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 109
+  },
+  {
+    "id": 698201,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 120
+  },
+  {
+    "id": 158445,
+    "budget": 0,
+    "revenue": 80300000,
+    "runtime": 127
+  },
+  {
+    "id": 20722,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 12
+  },
+  {
+    "id": 5925,
+    "budget": 4000000,
+    "revenue": 11744471,
+    "runtime": 173
+  },
+  {
+    "id": 745,
+    "budget": 40000000,
+    "revenue": 672806292,
+    "runtime": 107
+  },
+  {
+    "id": 920394,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 112
+  },
+  {
+    "id": 142061,
+    "budget": 3500000,
+    "revenue": 0,
+    "runtime": 78
+  },
+  {
+    "id": 721656,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 76
+  },
+  {
+    "id": 455714,
+    "budget": 1839169,
+    "revenue": 42350000,
+    "runtime": 130
+  },
+  {
+    "id": 9323,
+    "budget": 3000000,
+    "revenue": 515905,
+    "runtime": 83
+  },
+  {
+    "id": 6977,
+    "budget": 25000000,
+    "revenue": 171627166,
+    "runtime": 122
+  },
+  {
+    "id": 152532,
+    "budget": 5000000,
+    "revenue": 55736588,
+    "runtime": 117
+  },
+  {
+    "id": 329,
+    "budget": 63000000,
+    "revenue": 920100000,
+    "runtime": 127
+  },
+  {
+    "id": 81,
+    "budget": 1000000,
+    "revenue": 3301446,
+    "runtime": 116
+  },
+  {
+    "id": 610150,
+    "budget": 0,
+    "revenue": 86562140,
+    "runtime": 99
+  },
+  {
+    "id": 31411,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 76
+  },
+  {
+    "id": 78,
+    "budget": 28000000,
+    "revenue": 41722424,
+    "runtime": 118
+  },
+  {
+    "id": 522212,
+    "budget": 25000000,
+    "revenue": 50401502,
+    "runtime": 137
+  },
+  {
+    "id": 916224,
+    "budget": 0,
+    "revenue": 319581709,
+    "runtime": 121
+  },
+  {
+    "id": 613868,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 83
+  },
+  {
+    "id": 746957,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 111
+  },
+  {
+    "id": 570503,
+    "budget": 0,
+    "revenue": 8631781,
+    "runtime": 122
+  },
+  {
+    "id": 37797,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 111
+  },
+  {
+    "id": 20271,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104
+  },
+  {
+    "id": 197,
+    "budget": 72000000,
+    "revenue": 213216216,
+    "runtime": 178
+  },
+  {
+    "id": 829,
+    "budget": 6000000,
+    "revenue": 30000000,
+    "runtime": 130
+  },
+  {
+    "id": 662,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 28
+  },
+  {
+    "id": 10386,
+    "budget": 70000000,
+    "revenue": 23159305,
+    "runtime": 86
+  },
+  {
+    "id": 1646,
+    "budget": 21000000,
+    "revenue": 43095175,
+    "runtime": 122
+  },
+  {
+    "id": 33,
+    "budget": 14400000,
+    "revenue": 159157447,
+    "runtime": 130
+  },
+  {
+    "id": 150540,
+    "budget": 175000000,
+    "revenue": 857611174,
+    "runtime": 102
+  },
+  {
+    "id": 69335,
+    "budget": 536279,
+    "revenue": 0,
+    "runtime": 113
+  },
+  {
+    "id": 85,
+    "budget": 18000000,
+    "revenue": 389925971,
+    "runtime": 115
+  },
+  {
+    "id": 552532,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 125
+  },
+  {
+    "id": 8290,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 132
+  },
+  {
+    "id": 679,
+    "budget": 18500000,
+    "revenue": 183316455,
+    "runtime": 137
+  },
+  {
+    "id": 615453,
+    "budget": 20000000,
+    "revenue": 742500000,
+    "runtime": 110
+  },
+  {
+    "id": 579792,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 109
+  },
+  {
+    "id": 527774,
+    "budget": 100000000,
+    "revenue": 130423032,
+    "runtime": 107
+  },
+  {
+    "id": 183011,
+    "budget": 3500000,
+    "revenue": 0,
+    "runtime": 75
+  },
+  {
+    "id": 594634,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 117
+  },
+  {
+    "id": 20874,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 135
+  },
+  {
+    "id": 10674,
+    "budget": 90000000,
+    "revenue": 304320254,
+    "runtime": 88
+  },
+  {
+    "id": 6715,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97
+  },
+  {
+    "id": 2011,
+    "budget": 7300000,
+    "revenue": 0,
+    "runtime": 95
+  },
+  {
+    "id": 334533,
+    "budget": 5000000,
+    "revenue": 23123592,
+    "runtime": 119
+  },
+  {
+    "id": 505262,
+    "budget": 12000000,
+    "revenue": 31478826,
+    "runtime": 96
+  },
+  {
+    "id": 316029,
+    "budget": 84000000,
+    "revenue": 432844677,
+    "runtime": 104
+  },
+  {
+    "id": 296096,
+    "budget": 20000000,
+    "revenue": 207945075,
+    "runtime": 110
+  },
+  {
+    "id": 47796,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 110
+  },
+  {
+    "id": 3034,
+    "budget": 2800000,
+    "revenue": 86273333,
+    "runtime": 106
+  },
+  {
+    "id": 671,
+    "budget": 125000000,
+    "revenue": 976475550,
+    "runtime": 152
+  },
+  {
+    "id": 223,
+    "budget": 1288000,
+    "revenue": 6000000,
+    "runtime": 130
+  },
+  {
+    "id": 17295,
+    "budget": 800000,
+    "revenue": 964028,
+    "runtime": 121
+  },
+  {
+    "id": 843906,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 72
+  },
+  {
+    "id": 244001,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 60
+  },
+  {
+    "id": 32085,
+    "budget": 60000,
+    "revenue": 0,
+    "runtime": 7
+  },
+  {
+    "id": 603692,
+    "budget": 90000000,
+    "revenue": 419769198,
+    "runtime": 170
+  },
+  {
+    "id": 25364,
+    "budget": 1821052,
+    "revenue": 1300000,
+    "runtime": 111
+  },
+  {
+    "id": 938008,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95
+  },
+  {
+    "id": 3083,
+    "budget": 1500000,
+    "revenue": 9600000,
+    "runtime": 129
+  },
+  {
+    "id": 435129,
+    "budget": 0,
+    "revenue": 312381,
+    "runtime": 94
+  },
+  {
+    "id": 7984,
+    "budget": 13000000,
+    "revenue": 65796862,
+    "runtime": 133
+  },
+  {
+    "id": 7857,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 123
+  },
+  {
+    "id": 122906,
+    "budget": 12000000,
+    "revenue": 87100449,
+    "runtime": 123
+  },
+  {
+    "id": 20875,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95
+  },
+  {
+    "id": 331482,
+    "budget": 40000000,
+    "revenue": 216601214,
+    "runtime": 135
+  },
+  {
+    "id": 118340,
+    "budget": 170000000,
+    "revenue": 772776600,
+    "runtime": 122
+  },
+  {
+    "id": 3870,
+    "budget": 9000000,
+    "revenue": 0,
+    "runtime": 317
+  },
+  {
+    "id": 354857,
+    "budget": 3000000,
+    "revenue": 0,
+    "runtime": 70
+  },
+  {
+    "id": 60243,
+    "budget": 5000000,
+    "revenue": 24426169,
+    "runtime": 123
+  },
+  {
+    "id": 1402,
+    "budget": 55000000,
+    "revenue": 307077295,
+    "runtime": 117
+  },
+  {
+    "id": 194,
+    "budget": 10000000,
+    "revenue": 173921954,
+    "runtime": 122
+  },
+  {
+    "id": 585511,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105
+  },
+  {
+    "id": 198,
+    "budget": 1200000,
+    "revenue": 1500000,
+    "runtime": 99
+  },
+  {
+    "id": 31442,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95
+  },
+  {
+    "id": 949,
+    "budget": 60000000,
+    "revenue": 187436818,
+    "runtime": 170
+  },
+  {
+    "id": 752,
+    "budget": 54000000,
+    "revenue": 132511035,
+    "runtime": 132
+  },
+  {
+    "id": 11830,
+    "budget": 1500000,
+    "revenue": 0,
+    "runtime": 115
+  },
+  {
+    "id": 24167,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100
+  },
+  {
+    "id": 573164,
+    "budget": 0,
+    "revenue": 3606902,
+    "runtime": 89
+  },
+  {
+    "id": 210577,
+    "budget": 61000000,
+    "revenue": 369330363,
+    "runtime": 149
+  },
+  {
+    "id": 597,
+    "budget": 200000000,
+    "revenue": 2264162353,
+    "runtime": 194
+  },
+  {
+    "id": 313369,
+    "budget": 30000000,
+    "revenue": 447407695,
+    "runtime": 127
+  },
+  {
+    "id": 548544,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 140
+  },
+  {
+    "id": 1892,
+    "budget": 32350000,
+    "revenue": 572700000,
+    "runtime": 133
+  },
+  {
+    "id": 712454,
+    "budget": 9850000,
+    "revenue": 1756552,
+    "runtime": 95
+  },
+  {
+    "id": 804,
+    "budget": 1500000,
+    "revenue": 12000000,
+    "runtime": 118
+  },
+  {
+    "id": 369557,
+    "budget": 4000000,
+    "revenue": 13624522,
+    "runtime": 106
+  },
+  {
+    "id": 10997,
+    "budget": 0,
+    "revenue": 5750000,
+    "runtime": 171
+  },
+  {
+    "id": 579245,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 114
+  },
+  {
+    "id": 16,
+    "budget": 12800000,
+    "revenue": 40031879,
+    "runtime": 141
+  },
+  {
+    "id": 937278,
+    "budget": 50000000,
+    "revenue": 108961677,
+    "runtime": 126
+  },
+  {
+    "id": 1162,
+    "budget": 500000,
+    "revenue": 2500000,
+    "runtime": 106
+  },
+  {
+    "id": 508943,
+    "budget": 200000000,
+    "revenue": 49750471,
+    "runtime": 95
+  },
+  {
+    "id": 180147,
+    "budget": 2000000,
+    "revenue": 26433651,
+    "runtime": 108
+  },
+  {
+    "id": 13398,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90
+  },
+  {
+    "id": 16390,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 74
+  },
+  {
+    "id": 503314,
+    "budget": 1000000,
+    "revenue": 125002821,
+    "runtime": 99
+  },
+  {
+    "id": 556901,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 76
+  },
+  {
+    "id": 49964,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 83
+  },
+  {
+    "id": 11036,
+    "budget": 29000000,
+    "revenue": 115603229,
+    "runtime": 123
+  },
+  {
+    "id": 3078,
+    "budget": 325000,
+    "revenue": 4500000,
+    "runtime": 105
+  },
+  {
+    "id": 1394,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 126
+  },
+  {
+    "id": 827,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 117
+  },
+  {
+    "id": 29455,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 80
+  },
+  {
+    "id": 393,
+    "budget": 30000000,
+    "revenue": 152159461,
+    "runtime": 136
+  },
+  {
+    "id": 83564,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 7
+  },
+  {
+    "id": 48035,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 125
+  },
+  {
+    "id": 406785,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 7
+  },
+  {
+    "id": 404378,
+    "budget": 8000000,
+    "revenue": 17900000,
+    "runtime": 103
+  },
+  {
+    "id": 11293,
+    "budget": 2500000,
+    "revenue": 30900000,
+    "runtime": 102
+  },
+  {
+    "id": 3112,
+    "budget": 795000,
+    "revenue": 0,
+    "runtime": 93
+  },
+  {
+    "id": 43469,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87
+  },
+  {
+    "id": 631,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94
+  },
+  {
+    "id": 301,
+    "budget": 0,
+    "revenue": 5800000,
+    "runtime": 141
+  },
+  {
+    "id": 776305,
+    "budget": 0,
+    "revenue": 63501160,
+    "runtime": 121
+  },
+  {
+    "id": 379170,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 115
+  },
+  {
+    "id": 52629,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 145
+  },
+  {
+    "id": 25538,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 173
+  },
+  {
+    "id": 22596,
+    "budget": 121000,
+    "revenue": 1500000,
+    "runtime": 74
+  },
+  {
+    "id": 833,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 91
+  },
+  {
+    "id": 803700,
+    "budget": 0,
+    "revenue": 9494985,
+    "runtime": 147
+  },
+  {
+    "id": 275,
+    "budget": 7000000,
+    "revenue": 60611975,
+    "runtime": 98
+  },
+  {
+    "id": 430424,
+    "budget": 23000000,
+    "revenue": 15100000,
+    "runtime": 113
+  },
+  {
+    "id": 934,
+    "budget": 200000,
+    "revenue": 460000,
+    "runtime": 118
+  },
+  {
+    "id": 801335,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88
+  },
+  {
+    "id": 564427,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95
+  },
+  {
+    "id": 381341,
+    "budget": 0,
+    "revenue": 31640626,
+    "runtime": 97
+  },
+  {
+    "id": 505192,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 121
+  },
+  {
+    "id": 266856,
+    "budget": 15000000,
+    "revenue": 123726688,
+    "runtime": 123
+  },
+  {
+    "id": 56231,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 113
+  },
+  {
+    "id": 152601,
+    "budget": 23000000,
+    "revenue": 47351251,
+    "runtime": 126
+  },
+  {
+    "id": 665,
+    "budget": 15000000,
+    "revenue": 164000000,
+    "runtime": 222
+  },
+  {
+    "id": 391,
+    "budget": 200000,
+    "revenue": 14500000,
+    "runtime": 99
+  },
+  {
+    "id": 399174,
+    "budget": 62770198,
+    "revenue": 64337744,
+    "runtime": 101
+  },
+  {
+    "id": 12903,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 75
+  },
+  {
+    "id": 235,
+    "budget": 8000000,
+    "revenue": 52287414,
+    "runtime": 87
+  },
+  {
+    "id": 593,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 167
+  },
+  {
+    "id": 24238,
+    "budget": 8240000,
+    "revenue": 1740429,
+    "runtime": 92
+  },
+  {
+    "id": 265195,
+    "budget": 4000000,
+    "revenue": 27007072,
+    "runtime": 122
+  },
+  {
+    "id": 1675,
+    "budget": 700000,
+    "revenue": 850000,
+    "runtime": 116
+  },
+  {
+    "id": 726759,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 118
+  },
+  {
+    "id": 20873,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100
+  },
+  {
+    "id": 45523,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 84
+  },
+  {
+    "id": 2440,
+    "budget": 12500000,
+    "revenue": 0,
+    "runtime": 110
+  },
+  {
+    "id": 453,
+    "budget": 58000000,
+    "revenue": 316800000,
+    "runtime": 135
+  },
+  {
+    "id": 581,
+    "budget": 22000000,
+    "revenue": 424208848,
+    "runtime": 183
+  },
+  {
+    "id": 726684,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 54
+  },
+  {
+    "id": 445030,
+    "budget": 0,
+    "revenue": 6000000,
+    "runtime": 106
+  },
+  {
+    "id": 546554,
+    "budget": 40000000,
+    "revenue": 312897920,
+    "runtime": 131
+  },
+  {
+    "id": 86000,
+    "budget": 0,
+    "revenue": 6941450,
+    "runtime": 106
+  },
+  {
+    "id": 10774,
+    "budget": 3800000,
+    "revenue": 23689877,
+    "runtime": 122
+  },
+  {
+    "id": 185789,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88
+  },
+  {
+    "id": 23160,
+    "budget": 0,
+    "revenue": 25461,
+    "runtime": 139
+  },
+  {
+    "id": 5511,
+    "budget": 0,
+    "revenue": 39481,
+    "runtime": 105
+  },
+  {
+    "id": 398924,
+    "budget": 21400000,
+    "revenue": 10898998,
+    "runtime": 110
+  },
+  {
+    "id": 16859,
+    "budget": 6900000,
+    "revenue": 4493017,
+    "runtime": 102
+  },
+  {
+    "id": 367412,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 18
+  },
+  {
+    "id": 293299,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 6
+  },
+  {
+    "id": 32480,
+    "budget": 0,
+    "revenue": 7283223,
+    "runtime": 135
+  },
+  {
+    "id": 16804,
+    "budget": 0,
+    "revenue": 69932387,
+    "runtime": 130
+  },
+  {
+    "id": 11049,
+    "budget": 4000000,
+    "revenue": 0,
+    "runtime": 66
+  },
+  {
+    "id": 887,
+    "budget": 2100000,
+    "revenue": 23650000,
+    "runtime": 171
+  },
+  {
+    "id": 5924,
+    "budget": 12000000,
+    "revenue": 53267000,
+    "runtime": 151
+  },
+  {
+    "id": 545611,
+    "budget": 25000000,
+    "revenue": 139200000,
+    "runtime": 140
+  },
+  {
+    "id": 14574,
+    "budget": 12500000,
+    "revenue": 20416563,
+    "runtime": 94
+  },
+  {
+    "id": 777,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 114
+  },
+  {
+    "id": 115,
+    "budget": 15000000,
+    "revenue": 46969409,
+    "runtime": 117
+  },
+  {
+    "id": 359156,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100
+  },
+  {
+    "id": 113,
+    "budget": 0,
+    "revenue": 8945072,
+    "runtime": 103
+  },
+  {
+    "id": 530254,
+    "budget": 5500000,
+    "revenue": 24340302,
+    "runtime": 125
+  },
+  {
+    "id": 946,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87
+  },
+  {
+    "id": 613,
+    "budget": 18339750,
+    "revenue": 92180910,
+    "runtime": 156
+  },
+  {
+    "id": 779047,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 7
+  },
+  {
+    "id": 22843,
+    "budget": 0,
+    "revenue": 41162041,
+    "runtime": 108
+  },
+  {
+    "id": 596,
+    "budget": 800000,
+    "revenue": 1591000,
+    "runtime": 129
+  },
+  {
+    "id": 93,
+    "budget": 2000000,
+    "revenue": 8000000,
+    "runtime": 161
+  },
+  {
+    "id": 9479,
+    "budget": 24000000,
+    "revenue": 75634409,
+    "runtime": 76
+  },
+  {
+    "id": 33320,
+    "budget": 0,
+    "revenue": 37641,
+    "runtime": 87
+  },
+  {
+    "id": 89,
+    "budget": 48000000,
+    "revenue": 474171806,
+    "runtime": 127
+  },
+  {
+    "id": 152742,
+    "budget": 13500000,
+    "revenue": 19255873,
+    "runtime": 131
+  },
+  {
+    "id": 80379,
+    "budget": 250000,
+    "revenue": 1000000,
+    "runtime": 62
+  },
+  {
+    "id": 71157,
+    "budget": 0,
+    "revenue": 20374201,
+    "runtime": 123
+  },
+  {
+    "id": 200727,
+    "budget": 0,
+    "revenue": 4439431,
+    "runtime": 102
+  },
+  {
+    "id": 58129,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 107
+  },
+  {
+    "id": 24480,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 5
+  },
+  {
+    "id": 744114,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 113
+  },
+  {
+    "id": 2721,
+    "budget": 0,
+    "revenue": 83305,
+    "runtime": 127
+  },
+  {
+    "id": 59440,
+    "budget": 25000000,
+    "revenue": 23308615,
+    "runtime": 140
+  },
+  {
+    "id": 1018,
+    "budget": 15000000,
+    "revenue": 20271129,
+    "runtime": 145
+  },
+  {
+    "id": 579974,
+    "budget": 69000000,
+    "revenue": 160000000,
+    "runtime": 186
+  },
+  {
+    "id": 50759,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 114
+  },
+  {
+    "id": 1607,
+    "budget": 10000000,
+    "revenue": 17287898,
+    "runtime": 121
+  },
+  {
+    "id": 968,
+    "budget": 1800000,
+    "revenue": 46665856,
+    "runtime": 125
+  },
+  {
+    "id": 31011,
+    "budget": 47000000,
+    "revenue": 2331721,
+    "runtime": 141
+  },
+  {
+    "id": 677638,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 69
+  },
+  {
+    "id": 30588,
+    "budget": 2000000,
+    "revenue": 0,
+    "runtime": 124
+  },
+  {
+    "id": 585,
+    "budget": 115000000,
+    "revenue": 579707738,
+    "runtime": 92
+  },
+  {
+    "id": 804095,
+    "budget": 40000000,
+    "revenue": 44937023,
+    "runtime": 151
+  },
+  {
+    "id": 6075,
+    "budget": 30000000,
+    "revenue": 63848322,
+    "runtime": 144
+  },
+  {
+    "id": 929170,
+    "budget": 20000000,
+    "revenue": 0,
+    "runtime": 97
+  },
+  {
+    "id": 14836,
+    "budget": 60000000,
+    "revenue": 124600000,
+    "runtime": 100
+  },
+  {
+    "id": 303867,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 17
+  },
+  {
+    "id": 47931,
+    "budget": 0,
+    "revenue": 63027681,
+    "runtime": 115
+  },
+  {
+    "id": 15859,
+    "budget": 4200000,
+    "revenue": 0,
+    "runtime": 117
+  },
+  {
+    "id": 21135,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 126
+  },
+  {
+    "id": 12,
+    "budget": 94000000,
+    "revenue": 940335536,
+    "runtime": 100
+  },
+  {
+    "id": 826,
+    "budget": 3000000,
+    "revenue": 44908000,
+    "runtime": 161
+  },
+  {
+    "id": 80,
+    "budget": 2700000,
+    "revenue": 15992615,
+    "runtime": 80
+  },
+  {
+    "id": 348892,
+    "budget": 13000000,
+    "revenue": 150000000,
+    "runtime": 159
+  },
+  {
+    "id": 805,
+    "budget": 3200000,
+    "revenue": 33395426,
+    "runtime": 138
+  },
+  {
+    "id": 136,
+    "budget": 310607,
+    "revenue": 0,
+    "runtime": 62
+  },
+  {
+    "id": 650031,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 107
+  },
+  {
+    "id": 10775,
+    "budget": 125000,
+    "revenue": 8708932,
+    "runtime": 101
+  },
+  {
+    "id": 11602,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 91
+  },
+  {
+    "id": 674,
+    "budget": 150000000,
+    "revenue": 895921036,
+    "runtime": 157
+  },
+  {
+    "id": 901563,
+    "budget": 0,
+    "revenue": 3129968,
+    "runtime": 104
+  },
+  {
+    "id": 841755,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 80
+  },
+  {
+    "id": 335578,
+    "budget": 5070773,
+    "revenue": 0,
+    "runtime": 100
+  },
+  {
+    "id": 770254,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95
+  },
+  {
+    "id": 5915,
+    "budget": 15000000,
+    "revenue": 56255142,
+    "runtime": 148
+  },
+  {
+    "id": 479718,
+    "budget": 5883687,
+    "revenue": 52946454,
+    "runtime": 121
+  },
+  {
+    "id": 263115,
+    "budget": 97000000,
+    "revenue": 619021436,
+    "runtime": 137
+  },
+  {
+    "id": 113833,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 133
+  },
+  {
+    "id": 314365,
+    "budget": 20000000,
+    "revenue": 98690254,
+    "runtime": 128
+  },
+  {
+    "id": 11953,
+    "budget": 6000000,
+    "revenue": 4000000,
+    "runtime": 180
+  },
+  {
+    "id": 705861,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 118
+  },
+  {
+    "id": 597316,
+    "budget": 0,
+    "revenue": 4100000,
+    "runtime": 90
+  },
+  {
+    "id": 323272,
+    "budget": 3000000,
+    "revenue": 67790117,
+    "runtime": 120
+  },
+  {
+    "id": 31056,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87
+  },
+  {
+    "id": 25606,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 108
+  },
+  {
+    "id": 1280,
+    "budget": 0,
+    "revenue": 3403957,
+    "runtime": 88
+  },
+  {
+    "id": 11697,
+    "budget": 3200000,
+    "revenue": 8000000,
+    "runtime": 123
+  },
+  {
+    "id": 10191,
+    "budget": 165000000,
+    "revenue": 494879471,
+    "runtime": 98
+  },
+  {
+    "id": 502,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 112
+  },
+  {
+    "id": 116322,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 81
+  },
+  {
+    "id": 423612,
+    "budget": 0,
+    "revenue": 4831836,
+    "runtime": 188
+  },
+  {
+    "id": 5991,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90
+  },
+  {
+    "id": 609242,
+    "budget": 0,
+    "revenue": 7627100,
+    "runtime": 114
+  },
+  {
+    "id": 419478,
+    "budget": 2800000,
+    "revenue": 27365467,
+    "runtime": 91
+  },
+  {
+    "id": 375794,
+    "budget": 0,
+    "revenue": 12421716,
+    "runtime": 100
+  },
+  {
+    "id": 5961,
+    "budget": 6000000,
+    "revenue": 6795771,
+    "runtime": 188
+  },
+  {
+    "id": 142,
+    "budget": 14000000,
+    "revenue": 178043761,
+    "runtime": 135
+  },
+  {
+    "id": 107,
+    "budget": 10000000,
+    "revenue": 83557872,
+    "runtime": 103
+  },
+  {
+    "id": 438631,
+    "budget": 165000000,
+    "revenue": 402027830,
+    "runtime": 155
+  },
+  {
+    "id": 393559,
+    "budget": 8000000,
+    "revenue": 5873256,
+    "runtime": 66
+  },
+  {
+    "id": 11656,
+    "budget": 0,
+    "revenue": 700000,
+    "runtime": 90
+  },
+  {
+    "id": 762,
+    "budget": 400000,
+    "revenue": 1940906,
+    "runtime": 91
+  },
+  {
+    "id": 29452,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 124
+  },
+  {
+    "id": 25253,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 111
+  },
+  {
+    "id": 49797,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 144
+  },
+  {
+    "id": 2062,
+    "budget": 150000000,
+    "revenue": 623726000,
+    "runtime": 115
+  },
+  {
+    "id": 1626,
+    "budget": 64000,
+    "revenue": 24517,
+    "runtime": 84
+  },
+  {
+    "id": 573171,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 91
+  },
+  {
+    "id": 143,
+    "budget": 1448864,
+    "revenue": 3270000,
+    "runtime": 133
+  },
+  {
+    "id": 831223,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88
+  },
+  {
+    "id": 29845,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 155
+  },
+  {
+    "id": 13042,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 5
+  },
+  {
+    "id": 262,
+    "budget": 20000000,
+    "revenue": 2536000,
+    "runtime": 109
+  },
+  {
+    "id": 126319,
+    "budget": 12516654,
+    "revenue": 8109160,
+    "runtime": 78
+  },
+  {
+    "id": 5544,
+    "budget": 0,
+    "revenue": 3193,
+    "runtime": 92
+  },
+  {
+    "id": 27064,
+    "budget": 5000000,
+    "revenue": 502758,
+    "runtime": 121
+  },
+  {
+    "id": 22683,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86
+  },
+  {
+    "id": 4977,
+    "budget": 0,
+    "revenue": 946590,
+    "runtime": 90
+  },
+  {
+    "id": 396,
+    "budget": 7500000,
+    "revenue": 33736689,
+    "runtime": 131
+  },
+  {
+    "id": 766507,
+    "budget": 65000000,
+    "revenue": 0,
+    "runtime": 100
+  },
+  {
+    "id": 29458,
+    "budget": 0,
+    "revenue": 1805884,
+    "runtime": 114
+  },
+  {
+    "id": 10193,
+    "budget": 200000000,
+    "revenue": 1066969703,
+    "runtime": 102
+  },
+  {
+    "id": 144,
+    "budget": 2500000,
+    "revenue": 3210139,
+    "runtime": 128
+  },
+  {
+    "id": 52345,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 106
+  },
+  {
+    "id": 32916,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 75
+  },
+  {
+    "id": 13855,
+    "budget": 120456666,
+    "revenue": 0,
+    "runtime": 123
+  },
+  {
+    "id": 5000,
+    "budget": 0,
+    "revenue": 10188,
+    "runtime": 87
+  },
+  {
+    "id": 553,
+    "budget": 10000000,
+    "revenue": 16680836,
+    "runtime": 178
+  },
+  {
+    "id": 1366,
+    "budget": 1000000,
+    "revenue": 117250402,
+    "runtime": 119
+  },
+  {
+    "id": 554590,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 120
+  },
+  {
+    "id": 17483,
+    "budget": 500000,
+    "revenue": 142666,
+    "runtime": 89
+  },
+  {
+    "id": 11621,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90
+  },
+  {
+    "id": 22,
+    "budget": 140000000,
+    "revenue": 655011224,
+    "runtime": 143
+  },
+  {
+    "id": 2118,
+    "budget": 35000000,
+    "revenue": 126216940,
+    "runtime": 138
+  },
+  {
+    "id": 141,
+    "budget": 6000000,
+    "revenue": 7500000,
+    "runtime": 114
+  },
+  {
+    "id": 602063,
+    "budget": 0,
+    "revenue": 33457923,
+    "runtime": 138
+  },
+  {
+    "id": 149870,
+    "budget": 30000000,
+    "revenue": 117932401,
+    "runtime": 126
+  },
+  {
+    "id": 84892,
+    "budget": 13000000,
+    "revenue": 33400000,
+    "runtime": 103
+  },
+  {
+    "id": 20126,
+    "budget": 0,
+    "revenue": 2864091,
+    "runtime": 127
+  },
+  {
+    "id": 14069,
+    "budget": 0,
+    "revenue": 3800000,
+    "runtime": 97
+  },
+  {
+    "id": 851,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86
+  },
+  {
+    "id": 336804,
+    "budget": 1300000,
+    "revenue": 5274664,
+    "runtime": 97
+  },
+  {
+    "id": 277216,
+    "budget": 28000000,
+    "revenue": 201634991,
+    "runtime": 147
+  },
+  {
+    "id": 10315,
+    "budget": 40000000,
+    "revenue": 46471023,
+    "runtime": 87
+  },
+  {
+    "id": 9421,
+    "budget": 12500000,
+    "revenue": 78599508,
+    "runtime": 80
+  },
+  {
+    "id": 49026,
+    "budget": 250000000,
+    "revenue": 1081041287,
+    "runtime": 164
+  },
+  {
+    "id": 656563,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104
+  },
+  {
+    "id": 582927,
+    "budget": 849080,
+    "revenue": 0,
+    "runtime": 112
+  },
+  {
+    "id": 539517,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90
+  },
+  {
+    "id": 49687,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 102
+  },
+  {
+    "id": 10757,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 209
+  },
+  {
+    "id": 10227,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 115
+  },
+  {
+    "id": 303,
+    "budget": 1000000,
+    "revenue": 24500000,
+    "runtime": 103
+  },
+  {
+    "id": 16237,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 75
+  },
+  {
+    "id": 1480,
+    "budget": 829000,
+    "revenue": 2247500,
+    "runtime": 111
+  },
+  {
+    "id": 980,
+    "budget": 565000,
+    "revenue": 0,
+    "runtime": 76
+  },
+  {
+    "id": 15916,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 71
+  },
+  {
+    "id": 14282,
+    "budget": 60000000,
+    "revenue": 0,
+    "runtime": 96
+  },
+  {
+    "id": 486589,
+    "budget": 0,
+    "revenue": 10054356,
+    "runtime": 92
+  },
+  {
+    "id": 169813,
+    "budget": 1000000,
+    "revenue": 2300000,
+    "runtime": 96
+  },
+  {
+    "id": 696,
+    "budget": 9000000,
+    "revenue": 39946780,
+    "runtime": 96
+  },
+  {
+    "id": 49046,
+    "budget": 20000000,
+    "revenue": 0,
+    "runtime": 147
+  },
+  {
+    "id": 703,
+    "budget": 4000000,
+    "revenue": 38251425,
+    "runtime": 93
+  },
+  {
+    "id": 166428,
+    "budget": 129000000,
+    "revenue": 524580592,
+    "runtime": 104
+  },
+  {
+    "id": 12444,
+    "budget": 250000000,
+    "revenue": 954305868,
+    "runtime": 146
+  },
+  {
+    "id": 869626,
+    "budget": 0,
+    "revenue": 6000000,
+    "runtime": 90
+  },
+  {
+    "id": 428493,
+    "budget": 0,
+    "revenue": 2559939,
+    "runtime": 105
+  },
+  {
+    "id": 352173,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 163
+  },
+  {
+    "id": 40662,
+    "budget": 0,
+    "revenue": 6629178,
+    "runtime": 75
+  },
+  {
+    "id": 117,
+    "budget": 25000000,
+    "revenue": 76270454,
+    "runtime": 119
+  },
+  {
+    "id": 12496,
+    "budget": 5000000,
+    "revenue": 7338987,
+    "runtime": 129
+  },
+  {
+    "id": 873,
+    "budget": 15000000,
+    "revenue": 146292000,
+    "runtime": 154
+  },
+  {
+    "id": 562,
+    "budget": 28000000,
+    "revenue": 140767956,
+    "runtime": 131
+  },
+  {
+    "id": 506574,
+    "budget": 15000000,
+    "revenue": 0,
+    "runtime": 106
+  },
+  {
+    "id": 498249,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100
+  },
+  {
+    "id": 9475,
+    "budget": 31000000,
+    "revenue": 134095253,
+    "runtime": 156
+  },
+  {
+    "id": 27670,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 107
+  },
+  {
+    "id": 1908,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 128
+  },
+  {
+    "id": 587,
+    "budget": 70000000,
+    "revenue": 123218424,
+    "runtime": 125
+  },
+  {
+    "id": 380,
+    "budget": 25000000,
+    "revenue": 354825435,
+    "runtime": 134
+  },
+  {
+    "id": 337960,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 128
+  },
+  {
+    "id": 86837,
+    "budget": 8900000,
+    "revenue": 29844753,
+    "runtime": 127
+  },
+  {
+    "id": 18079,
+    "budget": 1300000,
+    "revenue": 12413888,
+    "runtime": 114
+  },
+  {
+    "id": 843241,
+    "budget": 0,
+    "revenue": 1094673,
+    "runtime": 79
+  },
+  {
+    "id": 435366,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 126
+  },
+  {
+    "id": 925,
+    "budget": 6500000,
+    "revenue": 37295445,
+    "runtime": 120
+  },
+  {
+    "id": 396535,
+    "budget": 8500000,
+    "revenue": 87547518,
+    "runtime": 118
+  },
+  {
+    "id": 2108,
+    "budget": 1000000,
+    "revenue": 51525171,
+    "runtime": 98
+  },
+  {
+    "id": 963,
+    "budget": 375000,
+    "revenue": 1772000,
+    "runtime": 100
+  },
+  {
+    "id": 492188,
+    "budget": 18000000,
+    "revenue": 2300000,
+    "runtime": 137
+  },
+  {
+    "id": 576920,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 137
+  },
+  {
+    "id": 1700,
+    "budget": 20000000,
+    "revenue": 61276872,
+    "runtime": 107
+  },
+  {
+    "id": 583,
+    "budget": 4000000,
+    "revenue": 20745728,
+    "runtime": 94
+  },
+  {
+    "id": 61979,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 122
+  },
+  {
+    "id": 11005,
+    "budget": 0,
+    "revenue": 52096475,
+    "runtime": 120
+  },
+  {
+    "id": 581528,
+    "budget": 0,
+    "revenue": 25775371,
+    "runtime": 112
+  },
+  {
+    "id": 28162,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104
+  },
+  {
+    "id": 756999,
+    "budget": 17000000,
+    "revenue": 161440742,
+    "runtime": 103
+  },
+  {
+    "id": 359784,
+    "budget": 0,
+    "revenue": 6170998,
+    "runtime": 115
+  },
+  {
+    "id": 317442,
+    "budget": 903852,
+    "revenue": 19840000,
+    "runtime": 114
+  },
+  {
+    "id": 724495,
+    "budget": 50000000,
+    "revenue": 91000000,
+    "runtime": 135
+  },
+  {
+    "id": 1417,
+    "budget": 19000000,
+    "revenue": 83258226,
+    "runtime": 118
+  },
+  {
+    "id": 165,
+    "budget": 40000000,
+    "revenue": 332000000,
+    "runtime": 108
+  },
+  {
+    "id": 713776,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 12
+  },
+  {
+    "id": 6844,
+    "budget": 13000000,
+    "revenue": 122700000,
+    "runtime": 220
+  },
+  {
+    "id": 3114,
+    "budget": 3750000,
+    "revenue": 0,
+    "runtime": 119
+  },
+  {
+    "id": 382591,
+    "budget": 0,
+    "revenue": 1447740,
+    "runtime": 118
+  },
+  {
+    "id": 597922,
+    "budget": 2800000,
+    "revenue": 0,
+    "runtime": 126
+  },
+  {
+    "id": 374473,
+    "budget": 0,
+    "revenue": 15793051,
+    "runtime": 100
+  },
+  {
+    "id": 357786,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 64
+  },
+  {
+    "id": 903,
+    "budget": 3200000,
+    "revenue": 16217773,
+    "runtime": 127
+  },
+  {
+    "id": 27040,
+    "budget": 275,
+    "revenue": 0,
+    "runtime": 14
+  },
+  {
+    "id": 965150,
+    "budget": 0,
+    "revenue": 4785157,
+    "runtime": 101
+  },
+  {
+    "id": 269149,
+    "budget": 150000000,
+    "revenue": 1023784195,
+    "runtime": 108
+  },
+  {
+    "id": 14756,
+    "budget": 11715578,
+    "revenue": 22108789,
+    "runtime": 106
+  },
+  {
+    "id": 322,
+    "budget": 25000000,
+    "revenue": 156822020,
+    "runtime": 138
+  },
+  {
+    "id": 28571,
+    "budget": 2600000,
+    "revenue": 2300000,
+    "runtime": 115
+  },
+  {
+    "id": 792,
+    "budget": 6000000,
+    "revenue": 138530565,
+    "runtime": 120
+  },
+  {
+    "id": 273248,
+    "budget": 44000000,
+    "revenue": 155760117,
+    "runtime": 168
+  },
+  {
+    "id": 31589,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 150
+  },
+  {
+    "id": 16761,
+    "budget": 800000,
+    "revenue": 7800000,
+    "runtime": 90
+  },
+  {
+    "id": 10229,
+    "budget": 11800000,
+    "revenue": 47494916,
+    "runtime": 101
+  },
+  {
+    "id": 525,
+    "budget": 27000000,
+    "revenue": 115229890,
+    "runtime": 133
+  },
+  {
+    "id": 614917,
+    "budget": 50000000,
+    "revenue": 30000000,
+    "runtime": 145
+  },
+  {
+    "id": 317182,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 57
+  },
+  {
+    "id": 531,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 30
+  },
+  {
+    "id": 502033,
+    "budget": 0,
+    "revenue": 516520,
+    "runtime": 121
+  },
+  {
+    "id": 123025,
+    "budget": 3500000,
+    "revenue": 0,
+    "runtime": 76
+  },
+  {
+    "id": 11220,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98
+  },
+  {
+    "id": 177572,
+    "budget": 165000000,
+    "revenue": 657827828,
+    "runtime": 102
+  },
+  {
+    "id": 877703,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 140
+  },
+  {
+    "id": 573699,
+    "budget": 11936735,
+    "revenue": 61631776,
+    "runtime": 99
+  },
+  {
+    "id": 234200,
+    "budget": 0,
+    "revenue": 7523634,
+    "runtime": 120
+  },
+  {
+    "id": 81401,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 155
+  },
+  {
+    "id": 12491,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 117
+  },
+  {
+    "id": 216,
+    "budget": 130000,
+    "revenue": 0,
+    "runtime": 93
+  },
+  {
+    "id": 11902,
+    "budget": 14000000,
+    "revenue": 0,
+    "runtime": 170
+  },
+  {
+    "id": 508439,
+    "budget": 200000000,
+    "revenue": 141940042,
+    "runtime": 102
+  },
+  {
+    "id": 45269,
+    "budget": 15000000,
+    "revenue": 414211549,
+    "runtime": 118
+  },
+  {
+    "id": 451945,
+    "budget": 6600000,
+    "revenue": 7632420,
+    "runtime": 135
+  },
+  {
+    "id": 12429,
+    "budget": 41677699,
+    "revenue": 202404009,
+    "runtime": 100
+  },
+  {
+    "id": 556984,
+    "budget": 35000000,
+    "revenue": 107423,
+    "runtime": 130
+  },
+  {
+    "id": 413594,
+    "budget": 0,
+    "revenue": 20725409,
+    "runtime": 119
+  },
+  {
+    "id": 393729,
+    "budget": 2791874,
+    "revenue": 0,
+    "runtime": 105
+  },
+  {
+    "id": 30018,
+    "budget": 5000000,
+    "revenue": 17112713,
+    "runtime": 128
+  },
+  {
+    "id": 22504,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 83
+  },
+  {
+    "id": 12405,
+    "budget": 15000000,
+    "revenue": 378410542,
+    "runtime": 120
+  },
+  {
+    "id": 404,
+    "budget": 10000000,
+    "revenue": 6203044,
+    "runtime": 112
+  },
+  {
+    "id": 33602,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 108
+  },
+  {
+    "id": 10020,
+    "budget": 25000000,
+    "revenue": 424967620,
+    "runtime": 84
+  },
+  {
+    "id": 990,
+    "budget": 2000000,
+    "revenue": 7600000,
+    "runtime": 134
+  },
+  {
+    "id": 334,
+    "budget": 37000000,
+    "revenue": 48451803,
+    "runtime": 189
+  },
+  {
+    "id": 709629,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 103
+  },
+  {
+    "id": 25050,
+    "budget": 0,
+    "revenue": 3511120,
+    "runtime": 114
+  },
+  {
+    "id": 759054,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 113
+  },
+  {
+    "id": 508933,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 78
+  },
+  {
+    "id": 16052,
+    "budget": 20000000,
+    "revenue": 60000000,
+    "runtime": 127
+  },
+  {
+    "id": 9800,
+    "budget": 26000000,
+    "revenue": 206678440,
+    "runtime": 126
+  },
+  {
+    "id": 336,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 157
+  },
+  {
+    "id": 244063,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 78
+  },
+  {
+    "id": 583083,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 132
+  },
+  {
+    "id": 72660,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 17
+  },
+  {
+    "id": 203217,
+    "budget": 2000000,
+    "revenue": 20552094,
+    "runtime": 85
+  },
+  {
+    "id": 632,
+    "budget": 1661530,
+    "revenue": 0,
+    "runtime": 120
+  },
+  {
+    "id": 672,
+    "budget": 100000000,
+    "revenue": 876688482,
+    "runtime": 160
+  },
+  {
+    "id": 808,
+    "budget": 60000000,
+    "revenue": 487853320,
+    "runtime": 90
+  },
+  {
+    "id": 4495,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97
+  },
+  {
+    "id": 653,
+    "budget": 0,
+    "revenue": 19054,
+    "runtime": 94
+  },
+  {
+    "id": 446159,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 131
+  },
+  {
+    "id": 40619,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 6
+  },
+  {
+    "id": 24160,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 130
+  },
+  {
+    "id": 15265,
+    "budget": 0,
+    "revenue": 48980,
+    "runtime": 36
+  },
+  {
+    "id": 282758,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 60
+  },
+  {
+    "id": 1027014,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94
+  },
+  {
+    "id": 28145,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 120
+  },
+  {
+    "id": 575452,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 151
+  },
+  {
+    "id": 221732,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 135
+  },
+  {
+    "id": 9552,
+    "budget": 15000000,
+    "revenue": 441405644,
+    "runtime": 122
+  },
+  {
+    "id": 537116,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 120
+  },
+  {
+    "id": 20123,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 142
+  },
+  {
+    "id": 13002,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 83
+  },
+  {
+    "id": 162,
+    "budget": 20000000,
+    "revenue": 53000000,
+    "runtime": 105
+  },
+  {
+    "id": 309,
+    "budget": 1300000,
+    "revenue": 0,
+    "runtime": 105
+  },
+  {
+    "id": 616584,
+    "budget": 6000000,
+    "revenue": 359377,
+    "runtime": 92
+  },
+  {
+    "id": 22137,
+    "budget": 1500000,
+    "revenue": 0,
+    "runtime": 277
+  },
+  {
+    "id": 453191,
+    "budget": 3000000,
+    "revenue": 19030780,
+    "runtime": 83
+  },
+  {
+    "id": 48831,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 110
+  },
+  {
+    "id": 5528,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97
+  },
+  {
+    "id": 414906,
+    "budget": 185000000,
+    "revenue": 770945583,
+    "runtime": 176
+  },
+  {
+    "id": 13929,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 4
+  },
+  {
+    "id": 367735,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 62
+  },
+  {
+    "id": 167581,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100
+  },
+  {
+    "id": 96721,
+    "budget": 38000000,
+    "revenue": 90247624,
+    "runtime": 123
+  },
+  {
+    "id": 499,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90
+  },
+  {
+    "id": 205,
+    "budget": 17500000,
+    "revenue": 38000000,
+    "runtime": 121
+  },
+  {
+    "id": 211954,
+    "budget": 5500000,
+    "revenue": 99067206,
+    "runtime": 115
+  },
+  {
+    "id": 24428,
+    "budget": 220000000,
+    "revenue": 1518815515,
+    "runtime": 142
+  },
+  {
+    "id": 20139,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 108
+  },
+  {
+    "id": 993,
+    "budget": 3500000,
+    "revenue": 5750000,
+    "runtime": 138
+  },
+  {
+    "id": 15121,
+    "budget": 8200000,
+    "revenue": 286214286,
+    "runtime": 174
+  },
+  {
+    "id": 845,
+    "budget": 1200000,
+    "revenue": 7000000,
+    "runtime": 101
+  },
+  {
+    "id": 288,
+    "budget": 730000,
+    "revenue": 8000000,
+    "runtime": 85
+  },
+  {
+    "id": 76600,
+    "budget": 460000000,
+    "revenue": 2319794231,
+    "runtime": 192
+  },
+  {
+    "id": 28276,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93
+  },
+  {
+    "id": 297222,
+    "budget": 13000000,
+    "revenue": 120000000,
+    "runtime": 129
+  },
+  {
+    "id": 137182,
+    "budget": 0,
+    "revenue": 5475058,
+    "runtime": 112
+  },
+  {
+    "id": 30959,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 183
+  },
+  {
+    "id": 8416,
+    "budget": 750000,
+    "revenue": 0,
+    "runtime": 108
+  },
+  {
+    "id": 730840,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 106
+  },
+  {
+    "id": 242582,
+    "budget": 8500000,
+    "revenue": 50300000,
+    "runtime": 118
+  },
+  {
+    "id": 13151,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 77
+  },
+  {
+    "id": 9806,
+    "budget": 92000000,
+    "revenue": 631442092,
+    "runtime": 115
+  },
+  {
+    "id": 439058,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 81
+  },
+  {
+    "id": 767,
+    "budget": 250000000,
+    "revenue": 933959197,
+    "runtime": 153
+  },
+  {
+    "id": 4808,
+    "budget": 4000000,
+    "revenue": 13475000,
+    "runtime": 113
+  },
+  {
+    "id": 626872,
+    "budget": 18052672,
+    "revenue": 19200000,
+    "runtime": 140
+  },
+  {
+    "id": 581577,
+    "budget": 0,
+    "revenue": 3825668,
+    "runtime": 127
+  },
+  {
+    "id": 444705,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 67
+  },
+  {
+    "id": 342470,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 108
+  },
+  {
+    "id": 128246,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 125
+  },
+  {
+    "id": 19026,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99
+  },
+  {
+    "id": 14811,
+    "budget": 9000000,
+    "revenue": 83304330,
+    "runtime": 179
+  },
+  {
+    "id": 15794,
+    "budget": 1300000,
+    "revenue": 3483000,
+    "runtime": 114
+  },
+  {
+    "id": 688,
+    "budget": 24000000,
+    "revenue": 182016617,
+    "runtime": 135
+  },
+  {
+    "id": 272,
+    "budget": 150000000,
+    "revenue": 374218673,
+    "runtime": 140
+  },
+  {
+    "id": 9023,
+    "budget": 80000000,
+    "revenue": 122563539,
+    "runtime": 83
+  },
+  {
+    "id": 11787,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104
+  },
+  {
+    "id": 2433,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 126
+  },
+  {
+    "id": 108,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98
+  },
+  {
+    "id": 11482,
+    "budget": 0,
+    "revenue": 5100000,
+    "runtime": 126
+  },
+  {
+    "id": 83666,
+    "budget": 16000000,
+    "revenue": 68263166,
+    "runtime": 94
+  },
+  {
+    "id": 8016,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 72
+  },
+  {
+    "id": 261,
+    "budget": 3000000,
+    "revenue": 17570324,
+    "runtime": 108
+  },
+  {
+    "id": 795514,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96
+  },
+  {
+    "id": 371645,
+    "budget": 2500000,
+    "revenue": 23915910,
+    "runtime": 101
+  },
+  {
+    "id": 11972,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 107
+  },
+  {
+    "id": 675,
+    "budget": 150000000,
+    "revenue": 938212738,
+    "runtime": 137
+  },
+  {
+    "id": 399566,
+    "budget": 200000000,
+    "revenue": 470116094,
+    "runtime": 114
+  },
+  {
+    "id": 1633,
+    "budget": 11000000,
+    "revenue": 119418501,
+    "runtime": 130
+  },
+  {
+    "id": 24657,
+    "budget": 0,
+    "revenue": 316043,
+    "runtime": 149
+  },
+  {
+    "id": 10633,
+    "budget": 2000000,
+    "revenue": 27379978,
+    "runtime": 109
+  },
+  {
+    "id": 25858,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98
+  },
+  {
+    "id": 11898,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104
+  },
+  {
+    "id": 164,
+    "budget": 2500000,
+    "revenue": 9500000,
+    "runtime": 114
+  },
+  {
+    "id": 587272,
+    "budget": 3400000,
+    "revenue": 15894372,
+    "runtime": 95
+  },
+  {
+    "id": 567410,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 118
+  },
+  {
+    "id": 1040,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 186
+  },
+  {
+    "id": 247,
+    "budget": 320000,
+    "revenue": 0,
+    "runtime": 85
+  },
+  {
+    "id": 522627,
+    "budget": 22000000,
+    "revenue": 115171795,
+    "runtime": 113
+  },
+  {
+    "id": 11299,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 115
+  },
+  {
+    "id": 68,
+    "budget": 15000000,
+    "revenue": 9900000,
+    "runtime": 131
+  },
+  {
+    "id": 49992,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 75
+  },
+  {
+    "id": 12516,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 119
+  },
+  {
+    "id": 1075,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 127
+  },
+  {
+    "id": 22881,
+    "budget": 29000000,
+    "revenue": 309208309,
+    "runtime": 129
+  },
+  {
+    "id": 14580,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 89
+  },
+  {
+    "id": 5910,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 103
+  },
+  {
+    "id": 1632,
+    "budget": 15000000,
+    "revenue": 34604000,
+    "runtime": 128
+  },
+  {
+    "id": 1904,
+    "budget": 85000000,
+    "revenue": 162242962,
+    "runtime": 146
+  },
+  {
+    "id": 995,
+    "budget": 531374,
+    "revenue": 1103757,
+    "runtime": 96
+  },
+  {
+    "id": 891,
+    "budget": 8500000,
+    "revenue": 70600000,
+    "runtime": 138
+  },
+  {
+    "id": 4480,
+    "budget": 4940939,
+    "revenue": 0,
+    "runtime": 120
+  },
+  {
+    "id": 3763,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105
+  },
+  {
+    "id": 1587,
+    "budget": 11000000,
+    "revenue": 10032765,
+    "runtime": 118
+  },
+  {
+    "id": 899405,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 101
+  },
+  {
+    "id": 589739,
+    "budget": 284058,
+    "revenue": 0,
+    "runtime": 7
+  },
+  {
+    "id": 369299,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 113
+  },
+  {
+    "id": 13187,
+    "budget": 96000,
+    "revenue": 0,
+    "runtime": 25
+  },
+  {
+    "id": 637649,
+    "budget": 40000000,
+    "revenue": 103966489,
+    "runtime": 119
+  },
+  {
+    "id": 100402,
+    "budget": 170000000,
+    "revenue": 714766572,
+    "runtime": 136
+  },
+  {
+    "id": 51608,
+    "budget": 1255000,
+    "revenue": 43059790,
+    "runtime": 119
+  },
+  {
+    "id": 110160,
+    "budget": 9500000,
+    "revenue": 0,
+    "runtime": 168
+  },
+  {
+    "id": 773,
+    "budget": 8000000,
+    "revenue": 100523181,
+    "runtime": 101
+  },
+  {
+    "id": 672322,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 138
+  },
+  {
+    "id": 11474,
+    "budget": 4000000,
+    "revenue": 22490039,
+    "runtime": 94
+  },
+  {
+    "id": 527776,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 119
+  },
+  {
+    "id": 401698,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87
+  },
+  {
+    "id": 286217,
+    "budget": 108000000,
+    "revenue": 630600000,
+    "runtime": 141
+  },
+  {
+    "id": 23832,
+    "budget": 0,
+    "revenue": 1314230,
+    "runtime": 120
+  },
+  {
+    "id": 16306,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 72
+  },
+  {
+    "id": 12219,
+    "budget": 1750000,
+    "revenue": 0,
+    "runtime": 117
+  },
+  {
+    "id": 4497,
+    "budget": 0,
+    "revenue": 679244,
+    "runtime": 90
+  },
+  {
+    "id": 580175,
+    "budget": 5150000,
+    "revenue": 21700000,
+    "runtime": 116
+  },
+  {
+    "id": 265169,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 196
+  },
+  {
+    "id": 810171,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 124
+  },
+  {
+    "id": 629542,
+    "budget": 80000000,
+    "revenue": 250162278,
+    "runtime": 100
+  },
+  {
+    "id": 238628,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87
+  },
+  {
+    "id": 82702,
+    "budget": 145000000,
+    "revenue": 621537519,
+    "runtime": 102
+  },
+  {
+    "id": 51822,
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 104
+  },
+  {
+    "id": 702,
+    "budget": 1800000,
+    "revenue": 8000000,
+    "runtime": 125
+  },
+  {
+    "id": 26371,
+    "budget": 2600000,
+    "revenue": 2438304,
+    "runtime": 140
+  },
+  {
+    "id": 426426,
+    "budget": 15000000,
+    "revenue": 1140769,
+    "runtime": 135
+  },
+  {
+    "id": 44214,
+    "budget": 13000000,
+    "revenue": 329398046,
+    "runtime": 108
+  },
+  {
+    "id": 28580,
+    "budget": 1250000,
+    "revenue": 11000000,
+    "runtime": 101
+  },
+  {
+    "id": 99,
+    "budget": 8272296,
+    "revenue": 67872296,
+    "runtime": 101
+  },
+  {
+    "id": 471707,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 116
+  },
+  {
+    "id": 227932,
+    "budget": 2000000,
+    "revenue": 37858128,
+    "runtime": 96
+  },
+  {
+    "id": 3309,
+    "budget": 1453000,
+    "revenue": 5638000,
+    "runtime": 111
+  },
+  {
+    "id": 431693,
+    "budget": 100000000,
+    "revenue": 171616764,
+    "runtime": 102
+  },
+  {
+    "id": 50531,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100
+  },
+  {
+    "id": 17835,
+    "budget": 420000,
+    "revenue": 0,
+    "runtime": 117
+  },
+  {
+    "id": 14813,
+    "budget": 3000000,
+    "revenue": 21000000,
+    "runtime": 25
+  },
+  {
+    "id": 2493,
+    "budget": 16000000,
+    "revenue": 30861665,
+    "runtime": 98
+  },
+  {
+    "id": 981,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 113
+  },
+  {
+    "id": 2204,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 110
+  },
+  {
+    "id": 320007,
+    "budget": 0,
+    "revenue": 3191971,
+    "runtime": 140
+  },
+  {
+    "id": 37247,
+    "budget": 3000000,
+    "revenue": 104945305,
+    "runtime": 106
+  },
+  {
+    "id": 25188,
+    "budget": 1300000,
+    "revenue": 29133000,
+    "runtime": 119
+  },
+  {
+    "id": 8358,
+    "budget": 90000000,
+    "revenue": 429632142,
+    "runtime": 143
+  },
+  {
+    "id": 1939,
+    "budget": 1020000,
+    "revenue": 2000000,
+    "runtime": 88
+  },
+  {
+    "id": 976,
+    "budget": 3400000,
+    "revenue": 2500000,
+    "runtime": 97
+  },
+  {
+    "id": 336808,
+    "budget": 1400000,
+    "revenue": 1320005,
+    "runtime": 125
+  },
+  {
+    "id": 12548,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 103
+  },
+  {
+    "id": 10835,
+    "budget": 0,
+    "revenue": 2350174,
+    "runtime": 110
+  },
+  {
+    "id": 8832,
+    "budget": 7275000,
+    "revenue": 11260366,
+    "runtime": 113
+  },
+  {
+    "id": 4235,
+    "budget": 19000000,
+    "revenue": 0,
+    "runtime": 117
+  },
+  {
+    "id": 221731,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 138
+  },
+  {
+    "id": 4347,
+    "budget": 30000000,
+    "revenue": 131016624,
+    "runtime": 122
+  },
+  {
+    "id": 466282,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100
+  },
+  {
+    "id": 534780,
+    "budget": 4500000,
+    "revenue": 40000000,
+    "runtime": 139
+  },
+  {
+    "id": 12501,
+    "budget": 0,
+    "revenue": 3500000,
+    "runtime": 165
+  },
+  {
+    "id": 11362,
+    "budget": 35000000,
+    "revenue": 75395048,
+    "runtime": 131
+  },
+  {
+    "id": 592807,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 108
+  },
+  {
+    "id": 25768,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 70
+  },
+  {
+    "id": 578,
+    "budget": 7000000,
+    "revenue": 470653000,
+    "runtime": 124
+  },
+  {
+    "id": 366170,
+    "budget": 0,
+    "revenue": 1015339,
+    "runtime": 130
+  },
+  {
+    "id": 1592,
+    "budget": 30000000,
+    "revenue": 102616183,
+    "runtime": 129
+  },
+  {
+    "id": 513434,
+    "budget": 52406,
+    "revenue": 27590180,
+    "runtime": 96
+  },
+  {
+    "id": 910,
+    "budget": 1600000,
+    "revenue": 4900000,
+    "runtime": 114
+  },
+  {
+    "id": 15251,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 69
+  },
+  {
+    "id": 12093,
+    "budget": 4600000,
+    "revenue": 1007747,
+    "runtime": 109
+  },
+  {
+    "id": 576,
+    "budget": 6244087,
+    "revenue": 638641,
+    "runtime": 142
+  },
+  {
+    "id": 144288,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 110
+  },
+  {
+    "id": 871,
+    "budget": 5800000,
+    "revenue": 32589624,
+    "runtime": 100
+  },
+  {
+    "id": 158,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 89
+  },
+  {
+    "id": 596054,
+    "budget": 0,
+    "revenue": 7364054,
+    "runtime": 116
+  },
+  {
+    "id": 234567,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 6
+  },
+  {
+    "id": 22292,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104
+  },
+  {
+    "id": 15137,
+    "budget": 0,
+    "revenue": 20000000,
+    "runtime": 98
+  },
+  {
+    "id": 812,
+    "budget": 28000000,
+    "revenue": 504050219,
+    "runtime": 95
+  },
+  {
+    "id": 338729,
+    "budget": 0,
+    "revenue": 14301869,
+    "runtime": 127
+  },
+  {
+    "id": 313297,
+    "budget": 60000000,
+    "revenue": 76249438,
+    "runtime": 102
+  },
+  {
+    "id": 8429,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 125
+  },
+  {
+    "id": 678,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97
+  },
+  {
+    "id": 30020,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99
+  },
+  {
+    "id": 707886,
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 107
+  },
+  {
+    "id": 568124,
+    "budget": 50000000,
+    "revenue": 253000000,
+    "runtime": 102
+  },
+  {
+    "id": 4960,
+    "budget": 20000000,
+    "revenue": 4383538,
+    "runtime": 124
+  },
+  {
+    "id": 17058,
+    "budget": 1202000,
+    "revenue": 2948500,
+    "runtime": 103
+  },
+  {
+    "id": 4995,
+    "budget": 15000000,
+    "revenue": 43101594,
+    "runtime": 156
+  },
+  {
+    "id": 218,
+    "budget": 6400000,
+    "revenue": 78371200,
+    "runtime": 108
+  }
+]
